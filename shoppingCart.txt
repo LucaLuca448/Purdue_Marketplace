@@ -1,0 +1,7 @@
+nirmie;speedStars;Black and gold badge;30.00;davidStore;2;A nice badge;davidkj
+nirmie;speedStars;Purdue Tote Bag;18.00;davidStore;3;A nice tote bag;davidkj
+nirmie;speedStars;Purdue laptop bag;27.00;kavyaStore;4;A nice laptop bag;kavyahm
+tandon39;firstSt;Book;60.00;claraStore;233;A nice book;clarank
+nirmie;speedStars;Purdue Overalls;100.00;dylanStoreTwo;3;Purdue Overalls for School Spirit;dylank
+tandon39;firstSt;Purdue hat;31.00;sandyStoreTwo;4;A nice hat;sandyruk
+majumda;greatSun;Econ Textbook;35.00;claraStore;1;A nice chair;clarank

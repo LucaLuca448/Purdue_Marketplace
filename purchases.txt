@@ -1,0 +1,7 @@
+Purdue Tote Bag;18.00;davidStore;2;tandon39;davidkj
+Purdue Ultra Tote Bag;38.00;davidStore;4;tandon39;davidkj
+Purdue Deluxe Tote Bag;28.00;davidStore;20;tandon39;davidkj
+Purdue Supreme Ultra Tote Bag;88.00;deluxeDavidStore;4;tandon39;davidkj
+Purdue Supreme Deluxe Tote Bag;58.00;deluxeDavidStore;20;tandon39;davidkj
+Purdue hat;31.00;sandyStore;2;lchandol;sandryuk
+Purdue Overalls;100.00;dylanStore;1;majumda;dylank

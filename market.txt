@@ -1,0 +1,13 @@
+Purdue Half Zip;52.00;dylanStore;12;A embroidered wool/cotton jacket;dylank
+Purdue laptop bag;30.00;dylanStore;33;A nice laptop cover/bag;dylank
+Purdue Overalls;100.00;dylanStoreTwo;20;Purdue Overalls for School Spirit;dylank
+Black and gold badge;30.00;davidStore;48;A nice badge;davidkj
+Purdue Tote Bag;18.00;davidStore;32;A nice tote bag;davidkj
+Purdue phone case;39.00;kavyaStore;24;A nice phone case;kavyahm
+Purdue laptop bag;27.00;kavyaStore;43;A nice laptop bag;kavyahm
+Purdue hoodie;74.00;sandyStore;19;A nice hoodie;sandyruk
+Purdue hat;31.00;sandyStoreTwo;0;A nice hat;sandyruk
+Purdue Tote Bag;10.00;sandyStore;36;A nice tote bag;sandyruk
+Purdue Tote Ultra Bag;24.00;davidPremiumStore;101;A nicer tote bag;davidkj
+Book;60.00;claraStore;5;A great book;clarank
+Econ textbook;36.00;claraStore;8;A nice chair;clarank
